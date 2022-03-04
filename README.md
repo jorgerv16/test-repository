@@ -2,11 +2,11 @@
 
 ## Installation
 
-'''
+```
 pip install Flask
 python app.py
 
-'''
+```
 
 ## Description
 Creation of a REST API for learning purposes
